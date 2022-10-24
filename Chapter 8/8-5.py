@@ -4,5 +4,5 @@ def describe_city(name,country='Ukraine'):
 
 
 describe_city('kyiv')
-describe_city('london')
-describe_city('paris')
+describe_city('london', 'great britain')
+describe_city('paris','france')
